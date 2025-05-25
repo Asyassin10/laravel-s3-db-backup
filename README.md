@@ -84,3 +84,8 @@ php artisan db:backup-to-s3 --connection=mysql --local-only
 ## Author
 
 Yassine ait sidi brahim — yassineaitsidibrahim@email.com
+
+## Credits
+
+- [Yassine ait sidi brahim](https://github.com/Asyassin10)
+
